@@ -2,7 +2,7 @@
 
 Instalación y creación de Crud básico
 
-<img src="https://raw.githubusercontent.com/andresd55/symfony/master/Resources/doc/index.png" alt="ManuelTranslation Backend" title="ManuelTranslation" width="70%" align="middle" />
+<img src="https://raw.githubusercontent.com/andresd55/symfony/master/Resources/doc/index.png" alt="index symfony" title="index" width="70%" align="middle" />
 
 1. Vamos a descargar e instalar Composer 
 
